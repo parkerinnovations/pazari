@@ -1,0 +1,3 @@
+﻿Pazari is a free (as in freedom) decentralized bazaar solution with a focus on independent e-commerce, bartering/trading, giving, and reusing/recycling. It is intended as an alternative to [eBay](http://www.ebay.com/), [Craigslist](http://www.craigslist.org/), [Amazon](http://www.amazon.com/), [Freecycle](http://www.freecycle.org/), et al.
+
+“pazári” is the Roman-alphabet transliteration of the Greek word “παζάρι”, which translates to “bazaar” in English. Coincidentally, “**p**azar**i**” looks/sounds like the word “bazaar” sandwiched between **p** and **i**, the initials of **P**arker **I**nnovations.
